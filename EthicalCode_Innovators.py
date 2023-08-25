@@ -67,9 +67,6 @@ st.warning(deployment_message)
 if st.button("Project Demo"):
         st.markdown("[Open Project Demo in Google Colab](https://colab.research.google.com/drive/1kA74VtGpBlTtTfX-xVbh0jo003QoyJG4#scrollTo=uRw1n4Ogmekj)")
 
-if __name__ == "__main__":
-    main()
-
 # Footer
 st.text("© 2023 AI Guardian Team")
 
